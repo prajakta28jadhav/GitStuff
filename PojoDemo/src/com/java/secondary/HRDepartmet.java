@@ -5,5 +5,7 @@ public class HRDepartmet {
 		System.out.println("Welcome");
 		System.out.println("MEMBER1 ADDED");
 		System.out.println("Member2 Added1");
+		System.out.println("Member 2 added");
+		
 	}
 }
